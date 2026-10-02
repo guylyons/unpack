@@ -1,6 +1,10 @@
-# Unpack
+<p align="center"><img src="docs/icon.png" width="128" alt="Unpack icon"></p>
 
-A drag-and-drop archive extractor for macOS, with a SwiftUI + Liquid Glass front end.
+<h1 align="center">Unpack</h1>
+
+<p align="center">A drag-and-drop archive extractor for macOS, with a SwiftUI + Liquid Glass front end.</p>
+
+<p align="center"><img src="docs/screenshot.png" width="460" alt="Unpack after extracting four archives"></p>
 
 Drop archives on the window or the Dock icon (or use **Open With → Unpack** in Finder)
 and they're expanded next to the original. RAR/RAR5, 7z, zip, tar, gz, bz2, xz, zstd, ISO,
